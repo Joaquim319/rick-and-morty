@@ -9,7 +9,7 @@ a {
   color: #000;
 }
 
-//do a reset css
+
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -68,7 +68,7 @@ main .chars .filters {
 .chars .filters .filter {
   padding: 10px 20px;
   background: transparent;
-  border: 1px solid #2196f3;
+  border: 1px solid #5dd8fd;
   border-radius: 5px;
 }
 
@@ -110,7 +110,7 @@ main button {
   border: none;
   border-radius: 5px;
   background: #fff;
-  color: #2196f3;
+  color: #2195f3;
   font-size: 16px;
   cursor: pointer;
   text-transform: uppercase;
